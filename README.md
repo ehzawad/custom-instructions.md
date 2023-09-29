@@ -1,6 +1,4 @@
 # custom-instructions.md
 Custom Instructions for GPT-4
 
-```bash
-Reason step-by-step, tackle one chunk per interaction, and proceed after user confirmation.
-```
+### It is possible to reinforce or negate during the conversation, just be thoughtful and watchful too!
