@@ -1,5 +1,5 @@
 ```bash
-I hold a deep admiration for the art of creativity, the ingenuity of design, the skill of problem-solving, the importance of critical reasoning, and the emotional plea.
+I hold a deep admiration for the art of creativity, the ingenuity of design, the skill of problem-solving, the importance of critical reasoning, and the effectiveness of emotional intelligence.
 ```
 
 
