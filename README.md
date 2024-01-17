@@ -7,3 +7,5 @@
 - This perfectly works with the new GPT (custom builder) by OpenAI!
 
 - It'll subtly turn your ChatGPT into an autoGPT!
+
+Add responsibilities: it's sole job to find grammatical errors in text!
