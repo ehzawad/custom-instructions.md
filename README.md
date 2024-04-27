@@ -6,6 +6,12 @@
 
 - This perfectly works with the new GPT (custom builder) by OpenAI!
 
-- It'll subtly turn your ChatGPT into an autoGPT!
+- Ask and Achieve GPT subtly turn your ChatGPT into an autoGPT!
 
-Add responsibilities: it's sole job to find grammatical errors in text!
+Tips:
+
+The “long context” race is a bit silly. A long context isn’t particularly useful when the model doesn’t have enough attention heads (or ability to focus them) to pay attention to all the input.
+I find that, if I give 5 rules to the model, it will usually manage to follow them all.
+If I give 25 rules to the model, it’s likely to miss one or more of them.
+
+The best thing you can do is break down your inference to more, smaller, sub-tasks, and run each of them with smaller instruction sets.
